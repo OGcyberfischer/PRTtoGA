@@ -2,6 +2,7 @@
 PRTtoGA is a simple PS1 script for using Microsoft Graph Access Token (Usually not MFA enforced) to create a new user and set the user with Global admin privileges. 
 
 ##Usage
+
 Get the appropriate Access Token using AADinternals (PASS THE PRT)
 ```
 #Get the PRT using the BrowserCore.exe technique 
